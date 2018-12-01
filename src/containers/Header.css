@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+.navi{
+    background: -webkit-linear-gradient(to bottom, #141e30, #243b55); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #141e30, #243b55); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 40px;
+    display: flex;
+    flex-direction: columns;
+    align-items:center;
+    border-radius: 3px;
+}
+
+a{
+    color: white;
+    outline: 0;
+    font-family: 'Lora', serif;
+    width: 90px;
+    height:30px;
+    font-size: 14pt;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    
+}
+
+a:hover{
+    box-shadow: 0 0 1pt inset cyan;
+}

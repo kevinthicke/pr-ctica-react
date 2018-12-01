@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+.container{
+    display:flex;
+}
+
+.cardMovie{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:20px;
+    padding:10px;
+    height: 150px;
+    width: 270px;
+    box-shadow: 0 0 1pt navy;
+    border-radius: 4px;
+}
+
+.movieInfo{
+    font-size: 20pt;
+}

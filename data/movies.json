@@ -1,0 +1,24 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "cars",
+            "year": "2005"
+        },
+        {
+            "id": 2,
+            "title": "toy story",
+            "year": "1996"
+        },
+        {
+            "id": 3,
+            "title": "shutter island",
+            "year": "2010"
+        },
+        {
+            "id": 4,
+            "title": "Buscando a Nemo",
+            "year": "2006"
+        }
+    ]
+}

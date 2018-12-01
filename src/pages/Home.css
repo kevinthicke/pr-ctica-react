@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+.container{
+    height: 80vh;
+    font-family: 'Lora', serif;
+    font-size: 40pt;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
